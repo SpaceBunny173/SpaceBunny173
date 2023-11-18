@@ -8,4 +8,4 @@
 - Also an amateur artist, casual guitar player, and gaming enthusiast. 
 - Currently my big focus here is an idea for an Adventure/RPG game in Godot's 3D engine.
 - Not currently looking to collaborate on many projects right now.
-- Can be reached at BlairBunny#1730 on Discord.
+- Can be reached at SpaceBunny#1730 on Discord.
